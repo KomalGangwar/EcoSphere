@@ -33,3 +33,11 @@
     "vite": "^5.2.0"
   }
 }
+{
+  "name": "my-package",
+  "scripts": {
+    "build": "babel src -d lib",
+    "test": "jest"
+  }
+}
+
