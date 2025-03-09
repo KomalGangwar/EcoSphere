@@ -51,8 +51,8 @@ Follow these steps to set up and run the project locally:
 1.  **Clone the Repository:**
 
     ```bash
-    git clone https://github.com/akashdeep023/Chat_App.git
-    cd Chat_App
+    git clone https://github.com/KomalGangwar/EcoSphere.git
+    cd EcoSphere
     ```
 
 2.  **Install Dependencies:**
@@ -140,9 +140,9 @@ Open `http://localhost:5173` in your web browser.
 
 ## Author
 
-Akash Deep \
-Email: contact.akashdeep023@gmail.com \
-LinkedIn : https://www.linkedin.com/in/akashdeep023/
+Komal Gangwar \
+Email: contact.komalgangwar2004@gmail.com \
+LinkedIn : www.linkedin.com/in/komal-gangwar-646bb8227
 
 ## Images
 **Profile**
